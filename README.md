@@ -1,2 +1,2 @@
-# Template-1
+# Templates
 Template for mail confirmation
